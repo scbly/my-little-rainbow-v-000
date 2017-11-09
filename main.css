@@ -16,17 +16,17 @@ div {
   border-top-color: #ffa500;
 }
 #yellow {
-  border-third-color: #ff0;
+  border-top-color: #ff0;
 }
 #green {
-  border-fourth-color: #00bc3f;
+  border-top-color: #00bc3f;
 }
 #blue {
-  border-fifth-color: #06f;
+  border-top-color: #06f;
 }
 #indigo {
-  border-sixth-color: #8a2be2;
+  border-top-color: #8a2be2;
 }
 #violet {
-  border-seventh-color: #d300c9;
+  border-top-color: #d300c9;
 }
